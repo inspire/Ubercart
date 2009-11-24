@@ -1,0 +1,100 @@
+# $Id: uc_ig.pot,v 1.0 2007/12/26
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  uc_ig.module,v 1.2 2007/12/26
+#  uc_ig.info,v 1.2 2007/12/26
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2007-12-26 10:04-0400\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: uc_ig.module:21 uc_ig.info:0
+msgid "ig.com"
+msgstr ""
+
+#: uc_ig.module:22
+msgid "Process credit card payments using the Inspire Gateway Service."
+msgstr ""
+
+#: uc_ig.module:41
+msgid "Inspire Gateway settings"
+msgstr ""
+
+#: uc_ig.module:45
+msgid "Username"
+msgstr ""
+
+#: uc_ig.module:47
+msgid "Username that is used for the Inspire Gateway Services."
+msgstr ""
+
+#: uc_ig.module:51
+msgid "Password"
+msgstr ""
+
+#: uc_ig.module:53
+msgid "The password used for the Inspire Gateway Services."
+msgstr ""
+
+#: uc_ig.module:77
+msgid "Authentication type"
+msgstr ""
+
+#: uc_ig.module:78
+msgid "Authorization Only will only set aside the funds that need to be withdrawn. Sale will withdraw the funds immediately."
+msgstr ""
+
+#: uc_ig.module:80
+msgid "Sale"
+msgstr ""
+
+#: uc_ig.module:81
+msgid "Authorization Only"
+msgstr ""
+
+#: uc_ig.module:87
+msgid ""
+msgstr ""
+
+#: uc_ig.module:88
+msgid ""
+msgstr ""
+
+#: uc_ig.module:101
+msgid ""
+msgstr ""
+
+#: uc_ig.module:201
+msgid "Credit card declined: !amount"
+msgstr ""
+
+#: uc_ig.module:204;205
+msgid "Credit card payment declined: !text"
+msgstr ""
+
+#: uc_ig.module:210
+msgid "Credit card charged: !amount"
+msgstr ""
+
+#: uc_ig.module:213;214
+msgid "Credit card payment processed successfully. Approval code: !code"
+msgstr ""
+
+#: uc_ig.module:0
+msgid "uc_ig"
+msgstr ""
+
+#: uc_ig.info:0
+msgid "Ubercart - payment"
+msgstr ""
+

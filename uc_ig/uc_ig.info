@@ -1,0 +1,12 @@
+; $Id$
+name = Inspire Gateway Services
+description = A gateway used to process payments using Inspire Gateway Services.
+dependencies = uc_payment uc_credit
+package = Ubercart - payment
+
+
+; Information added by drupal.org packaging script on 2007-11-05
+version = "5.x-1.0-alpha8"
+project = "ubercart"
+datestamp = "1194301212"
+
